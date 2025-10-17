@@ -1,9 +1,9 @@
-🧾 [DA5401] DA Lab – Assignment 6 – DA25M014 , Name - Jigarahemad K Shaikh , Roll Number: DA25M014
+🧾 [DA5401] DA Lab – Assignment 6 - Imputation via Regression for Missing Data, Name - Jigarahemad K Shaikh , Roll Number: DA25M014
 
 **📂 File Required for Evaluation - "DA5401_DA25M014_ASSIGNMENT_6_Final_Notebook.ipynb"**
 
 
-Title: Credit Risk Assessment – Missing Data Imputation & Classification
+Title: Credit Risk Assessment – Imputation via Regression for Missing Data
 
 This notebook contains complete preprocessing, imputation, modeling, and analytical discussion for the UCI Credit Card Default Clients Dataset.
 
